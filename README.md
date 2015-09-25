@@ -11,7 +11,7 @@ Dependencies
 - gtk2 and pygtk (used for the GUI)
 - mplayer and python-mplayer (used for playing the media)
 - google-api-python-client (used for searching the songs)
-- quvi (used for fetching the media url)
+- youtube-dl (used for fetching the media url)
 
 Enjoy & have fun!
 
